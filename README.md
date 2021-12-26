@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elvin-wj
+- 👋 Hi, I’m @elvin-j
 - 👀 I’m interested in learning more and more
 - 🌱 I’m currently learning Vuejs and javascript, and like that
 
